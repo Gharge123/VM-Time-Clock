@@ -71,3 +71,7 @@ MongoDB is a document database, so it does not import SQL `.sql` files as tables
 - import JSON/CSV data with MongoDB Compass / `mongoimport`.
 
 No database setup is needed to run this frontend. When the backend is added, create a MongoDB Atlas cluster (or local MongoDB), copy its connection string into the **server-only** `.env` file as `MONGODB_URI=...`, and never put that value in `src/` or any `VITE_` variable.
+
+## Password
+Name - vmtimeclock
+Password - admin@vmtimeclock.com
